@@ -1,0 +1,41 @@
+.firstRow{
+   justify-content: space-between;
+}
+.col-md-9{
+    background-color:#a8cc4c;
+    color: white;
+    
+    column-gap: 40px;
+}
+.col-md-3{
+    background-color:#a8cc4c;
+    color: white;
+    column-gap: 40px;
+    padding-left: 2px;
+
+}
+#fpar{
+    color: white;
+    float: right;
+}
+#sparr{
+    color: white;
+}
+.bg{
+    background-color:#a8cc4c;
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#navbarNav{
+    background-color:#a8cc4c;
+    color: black;
+    
+}
+.nav-item{
+    color: black;
+}
+#slider{
+    margin-left: 40%;
+    align-items: center;
+}
